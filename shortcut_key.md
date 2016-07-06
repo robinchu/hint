@@ -1,54 +1,52 @@
 # shortcut key
 
---
+### shell terminal
 
-## shell terminal
-
-* ctrl+p 
+ctrl+p 
 光标上翻历史
 
-* ctrl+n
+ctrl+n
 光标下翻历史
 
-* ctrl+a
+ctrl+a
 光标回到shell行首
 
-* ctrl+e
+ctrl+e
 光标回到shell行尾
 
-* ctrl+b
+ctrl+b
 光标向行首移动一个字符
 
-* ctrl+f
+ctrl+f
 光标向行尾移动一个字符
 
-* ctrl+w 
+ctrl+w 
 删除光标处到行首的字符
 
-* ctrl+k
+ctrl+k
 删除光标处到行尾的字符
 
-* ctrl+u
+ctrl+u
 删除命令行所有字符
 
-* ctrl+h
+ctrl+h
 向行首删除一个字符
 
-* ctrl+d
+ctrl+d
 向行尾删除一个字符
 
-* ctrl+t
+ctrl+t
 交换光标字符和它前面的字符
 
-* ctrl+s
+ctrl+s
 发呆
 
-* ctrl+q
+ctrl+q
 退出发呆
 
-* ctrl+z
+ctrl+z
 后台运行
 
-* ctrl+c
+ctrl+c
 终止进程
 
